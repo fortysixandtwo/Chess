@@ -5,7 +5,7 @@
 #include <string>
 
 #define V_MAJOR "0"
-#define V_MINOR "3"
+#define V_MINOR "1"
 #define V_PATCH "0"
 
 inline std::string getVersionString() {
