@@ -236,15 +236,17 @@ void UI::Renderer::renderOnce(const Core::GameState & gs) {
 // Render active chess pieces //
     for (uint8_t i=0;i<32;++i) {
         if (gs.figures[i].isAlive) {
-            x = uiOptions.offset_chessboard_x + \
-                uiOptions.tilesize*gs.figures[i].posx;
             if ((uiOptions.perspective == Core::WHITE) \
                 || (uiOptions.perspective == Core::SPECTATOR)) {
                 y = uiOptions.offset_chessboard_y + \
-                    uiOptions.tilesize*gs.figures[i].posy;
+                    uiOptions.tilesize*(7-gs.figures[i].posy);
+                x = uiOptions.offset_chessboard_x + \
+                    uiOptions.tilesize*gs.figures[i].posx;
             } else {
                 y = uiOptions.offset_chessboard_y + \
-                    uiOptions.tilesize*(7-gs.figures[i].posy);
+                    uiOptions.tilesize*gs.figures[i].posy;
+                x = uiOptions.offset_chessboard_x + \
+                    uiOptions.tilesize*(7-gs.figures[i].posx);
             }
 
             int texture_index = gs.figures[i].figure + \
