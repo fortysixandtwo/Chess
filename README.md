@@ -41,6 +41,7 @@ $ mkdir build && cd build <br>
 $ cmake .. <br>
 $ make && make install <br>
 
-
+### This is what it looks like
+![Multiplayer action!](https://fortysixandtwo.github.io/img/chess_promo.png)
 
 
