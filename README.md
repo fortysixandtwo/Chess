@@ -1,13 +1,13 @@
-Chess Game written in C++ with mostly SDL.
+## Chess Game written in C++ with mostly SDL.
 
 
-DISCLAIMER:
+### DISCLAIMER:
 
 At the time of this writing I haven't bothered
 tidying everything into a releasable state.
 This includes deciding on a license.
 
-Beware: Some functions were found on SO, Tutorial pages and the like.
+### Beware: Some functions were found on SO, Tutorial pages and the like.
 I should have annotated this where applicable, but may have forgotten
 to give you credit.
 In this case please contact me and I will rectify the situation :)
@@ -23,18 +23,18 @@ If you find anything useful, that is nice.
 If not, that's okay too.
 
 
-WHAT WORKS SO FAR:
+### WHAT WORKS SO FAR:
 UI Rendering to a certain degree.
 Server/Client
 
-REQUIREMENTS:
+### REQUIREMENTS:
 SDL2 <br>
 SDL2_net <br>
 SDL2_image <br>
 SDL2_ttf <br>
 
 
-BUILDING:
+### BUILDING:
 For a clean building environment I suggest to <br>
 
 $ mkdir build && cd build <br>
