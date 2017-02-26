@@ -28,18 +28,18 @@ UI Rendering to a certain degree.
 Server/Client
 
 REQUIREMENTS:
-SDL2
-SDL2_net
-SDL2_image
-SDL2_ttf
+SDL2 <br>
+SDL2_net <br>
+SDL2_image <br>
+SDL2_ttf <br>
 
 
 BUILDING:
-For a clean building environment I suggest to
+For a clean building environment I suggest to <br>
 
-$ mkdir build && cd build
-$ cmake ..
-$ make && make install
+$ mkdir build && cd build <br>
+$ cmake .. <br>
+$ make && make install <br>
 
 
 
