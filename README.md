@@ -1,3 +1,5 @@
+# SDL Chess
+<br>
 ## Chess Game written in C++ with SDL.
 
 
@@ -5,7 +7,6 @@
 
 At the time of this writing I haven't bothered
 tidying everything into a releasable state.
-This includes deciding on a license.
 
 ### Beware: Some functions were found on SO, Tutorial pages and the like.
 I should have annotated this where applicable, but may have forgotten
