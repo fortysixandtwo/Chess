@@ -1,4 +1,4 @@
-# SDL Chess
+# SDL-Chess
 <br>
 ## Chess Game written in C++ with SDL.
 
