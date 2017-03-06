@@ -1,4 +1,6 @@
 /*****
+Copyright (C) 2017 Evangelos Ribeiro Tzaras
+
 This file is part of SDL-Chess.
 
     SDL-Chess is free software: you can redistribute it and/or modify

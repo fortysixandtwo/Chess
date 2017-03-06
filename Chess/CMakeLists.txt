@@ -1,5 +1,7 @@
 #
-#This file is part of SDL-Chess.
+# Copyright (C) 2017 Evangelos Ribeiro Tzaras
+#
+# This file is part of SDL-Chess.
 #
 #    SDL-Chess is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
