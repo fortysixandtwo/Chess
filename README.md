@@ -5,6 +5,7 @@
 
 ### DISCLAIMER:
 
+Development continues on [GitLab](https://gitlab.com/fortysixandtwo/SDL-Chess) <br>
 At the time of this writing I haven't bothered
 tidying everything into a releasable state.
 
