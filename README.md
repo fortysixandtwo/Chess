@@ -24,7 +24,7 @@ I view this as a project to learn more about cmake, git, SDL and C++ in general.
 If you find anything useful, that is nice.
 If not, that's okay too.
 
-This is the biggest project I've worked on so far.
+This is the biggest solo project I've worked on so far.
 Basically I want to have this for use on my Raspberry Pi with the
 official 7" LCD.
 I want to learn about machine learning and neural networks
